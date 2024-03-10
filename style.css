@@ -42,8 +42,8 @@ nav a{
 } */
 
 section#home{
-    /* background-image: url('images/leone.jpg'); Replace with image path */
-    background-image: url('images/test1.jpg');
+    background-image: url('images/leone.jpg'); /*Replace with image path*/
+    /* background-image: url('images/test1.jpg'); */
     background-size: cover;
     background-position: center;
     /* color: white; */
@@ -55,7 +55,7 @@ section#home{
 #home {
     font-size: 36px;
     margin-bottom: 20px;
-    color: blue;
+    /* color: blue; */
 }
 
 #services {
