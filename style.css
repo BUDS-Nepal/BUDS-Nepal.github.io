@@ -46,7 +46,7 @@ section#home{
     background-size: cover;
     background-position: center;
     /* color: white; */
-    /* text-align: center; */
+    text-align: center;
     padding: 100px; /*Adjust padding as needed*/
     /* border: 2px solid red; */
 }
