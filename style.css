@@ -46,6 +46,7 @@ section#home{
     background-image: url('images/test1.jpg');
     background-size: cover;
     background-position: center;
+    color: blue;
     /* color: white; */
     text-align: center;
     padding: 100px; /*Adjust padding as needed*/
