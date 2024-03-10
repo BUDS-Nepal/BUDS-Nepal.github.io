@@ -61,6 +61,7 @@ section#home{
 #services {
     background-color: #f7f7f7; /* Light Gray Background */
     padding: 50px 0;
+    text-align: center;
 }
 
 .service-item {
